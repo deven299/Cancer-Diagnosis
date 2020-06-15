@@ -1,0 +1,2 @@
+You can download the data from Kaggle: https://www.kaggle.com/c/msk-redefining-cancer-treatment/
+Or from my Drive link: https://drive.google.com/drive/folders/1sQTHL3vlrQR-0n9ffggEyvAb-7AViefQ
