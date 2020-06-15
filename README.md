@@ -31,3 +31,6 @@ Developing a Machine Learning algorithm that, using various features and literat
   2. Confusion Matrix, Precision, Recall.
   
 
+```diff
+- Please look for 'Cancer Diagnosis.ipynb' file for implementation.
+```
